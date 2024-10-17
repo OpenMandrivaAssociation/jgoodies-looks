@@ -6,7 +6,7 @@ Version:	2.2.1
 Release:	0.0.6
 Group:		Development/Java
 License:	BSD
-URL:		http://www.jgoodies.com/freeware/looks/
+URL:		https://www.jgoodies.com/freeware/looks/
 # Unfortunately, the filename has the version in an annoying way
 Source0:	http://www.jgoodies.com/download/libraries/%{shortname}/%{shortname}-2_2_1.zip
 # Source1: %{name}.README
